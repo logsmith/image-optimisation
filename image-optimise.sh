@@ -21,7 +21,7 @@ for f in $find; do
     # This sequence appears at the end of WP cropped images like:
     # 2016/09/structured-data-in-wordpress-392x250.jpg
     if [[ $f =~ [0-9][0-9]\x[0-9][0-9] ]] ; then
-        echo $f;
-        # jpegoptim $f --preserve --max=84
+        # echo $f;
+        jpegoptim $f --preserve --max=84
     fi
 done
