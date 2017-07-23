@@ -1,0 +1,29 @@
+{
+    "name": "logsmith/image-optimisation",
+    "description": "Log Smith - Image Optimisation",
+    "keywords": [
+        "wordpress",
+        "plugin",
+        "dev"
+    ],
+    "homepage": "http://www.atomicsmash.co.uk/",
+    "license": "",
+    "authors": [
+        {
+            "name": "David Darke",
+            "email": "david@atomicsmash.co.uk",
+            "homepage": "https://www.atomicsmash.co.uk/"
+        },
+        {
+            "name": "Atomic Smash",
+            "email": "mail@atomicsmash.co.uk",
+            "homepage": "https://www.atomicsmash.co.uk/"
+        },
+        {
+            "name": "Logsmith",
+            "email": "logsmith@atomicsmash.co.uk",
+            "homepage": "https://www.atomicsmash.co.uk/"
+        }
+    ],
+    "type": "script"
+}
