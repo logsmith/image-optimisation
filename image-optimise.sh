@@ -22,6 +22,6 @@ for f in $find; do
     # 2016/09/structured-data-in-wordpress-392x250.jpg
     if [[ $f =~ [0-9][0-9]\x[0-9][0-9] ]] ; then
         # echo $f;
-        jpegoptim $f --preserve --max=84
+        jpegoptim $f --preserve --max=90
     fi
 done
